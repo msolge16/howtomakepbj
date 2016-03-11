@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>How to make a PB&J</title>
+<link href="style.css" rel="stylesheet">
+</head>
+
+
+<body>
+<ul id="navigation">
+	<li><a href="PB&J.html">Home</a></li>
+	<li><a href="Grocerylist.html">Grocery list</a></li>
+	<li><a href="Utensils.html">Utensils</a></li>
+	<li><a href="Directions.html">Directions</a></li>
+	
+<br>
+<blockquote> 1. You MUST wash your hands !
+<img src ="http://i.stack.imgur.com/GKEkt.png">
